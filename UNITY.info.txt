@@ -1,0 +1,3 @@
+Unity version : 2019.3.1f1
+
+Selectionnez 2D lorsque vous créer un nouveau projet.
