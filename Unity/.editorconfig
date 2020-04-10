@@ -1,0 +1,4 @@
+﻿[*.{cs,vb}]
+
+# IDE0048: Ajouter des parenthèses pour plus de clarté
+dotnet_style_parentheses_in_other_operators = always_for_clarity:silent
