@@ -1,0 +1,9 @@
+.vs/
+Library/
+Logs/
+obj/
+Packages/
+ProjectSettings/
+.editorconfig
+Assembly-CSharp.csproj
+Platformer.sln
